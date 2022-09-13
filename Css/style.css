@@ -17,6 +17,7 @@ body {
     margin: 0;
     padding: 0;
     height: 100vh;
+    width: 100vw;
 }
 
 .container {
@@ -102,17 +103,19 @@ a {
     color: white;
     margin: 0;
     padding-left: 1.5rem;
-    overflow: auto;
     padding-bottom: 15rem;
+    width: 100%;
 }
 
 .form-intl {
     font-size: 8rem;
+    margin-top: 0;
 }
 
 .intro {
     font-size: 3rem;
-    margin: 10x;
+    margin-top: 0;
+    width: 100vh;
 }
 
 .form-intl-intro {
